@@ -86,7 +86,7 @@ ul {
  }
  
  li a span:after {
-    content: '\00bb';
+    content: '\2192';
     position: absolute;
     opacity: 0;
     top: 0;
@@ -110,7 +110,7 @@ ul {
 }
 
 .cv-2 {
-    width: 570px;
+    width: 567px;
     height: 742px;
     float: left;
 }
